@@ -1,5 +1,5 @@
 # STD-Net
-# To supplement the paper entitled "STD-Net: A Multi-Scale Feature Fusion Network for Satellite Target Detection in Complex Space Environments"
+# To supplement the paper entitled "STD-Net for Satellite Target Detection in Complex Space Scenes with Multi-Scale Feature Fusion"
 
 The ST-Dataset can be obtained from the following link
 
